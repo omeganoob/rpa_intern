@@ -9,3 +9,5 @@ The project that completed is listed below:
  This robot automatically create user tickets from input excel file at zoho.com
  ## [AutomationChalleneg](https://github.com/omeganoob/rpa_intern/tree/main/AutomationChallenege%202)
  This robot will complete the RPA challenges given by www.rpachallenge.com
+ ## [VKU Grade collector](https://github.com/omeganoob/rpa_intern/tree/main/VKUGradeCollector)
+ This robot will login in to daotao.vku.udn.vn and collect your grade, write them in to a excel file and create charts from that data.
