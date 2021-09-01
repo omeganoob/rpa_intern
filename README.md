@@ -1,6 +1,6 @@
 # rpa_intern
-This repo store our RPA process made in Uipath studio.
-The project that completed is listed below:
+This repo store our RPA process made in Uipath studio. Some of the project are ongoing or deprecated
+The projects that are completed is listed below:
  ## [Robot 1](https://github.com/omeganoob/rpa_intern/tree/main/Robot1): Cloth Consultant
  This robot can take a city name as input, then it will search for the weather in browser and give you a advice about what cloth you should wear to go outside.
  ## [Robot 2](https://github.com/omeganoob/rpa_intern/tree/main/Robot2): Web scraping
